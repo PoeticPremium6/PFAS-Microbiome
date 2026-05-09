@@ -66,10 +66,6 @@ The scripts are intended to document the manuscript analysis workflow and reprod
 
 Local paths should be set through the provided configuration files or edited at the top of each script. Personal file paths and machine-specific directories have been removed.
 
-## Data availability note
-
-Raw sequencing data, PFAS measurements, and individual-level metadata may be subject to cohort data-use restrictions and are therefore not stored directly in this repository. Processed tables required to reproduce the figures should be placed in the `data/` subdirectories according to the paths documented in the figure scripts.
-
 ## Citation
 
 If using this workflow or adapting the scripts, please cite the associated manuscript once available.

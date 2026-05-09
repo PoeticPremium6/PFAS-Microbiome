@@ -2,12 +2,6 @@
 # 06_suppfig_s7_subsystem_cluster_diagnostics.R
 #
 # Supplementary cluster diagnostics for exposed-sample subsystem heatmap structure.
-#
-# Paths have been converted to repo-relative locations:
-#   data/processed/
-#   data/metadata/
-#   data/model_outputs/
-#   results/supplementary_figures/
 ############################################################
 
 # in Figure 4A subsystem heatmap

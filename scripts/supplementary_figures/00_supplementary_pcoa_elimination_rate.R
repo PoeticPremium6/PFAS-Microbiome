@@ -3,11 +3,6 @@
 #
 # Supplementary ordination panel used during manuscript development.
 #
-# Paths have been converted to repo-relative locations:
-#   data/processed/
-#   data/metadata/
-#   data/model_outputs/
-#   results/supplementary_figures/
 ############################################################
 
 # ==========================================================

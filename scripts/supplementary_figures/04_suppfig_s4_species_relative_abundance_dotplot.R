@@ -2,12 +2,6 @@
 # 04_suppfig_s4_species_relative_abundance_dotplot.R
 #
 # Supplementary Figure S4: species relative-abundance dot plot.
-#
-# Paths have been converted to repo-relative locations:
-#   data/processed/
-#   data/metadata/
-#   data/model_outputs/
-#   results/supplementary_figures/
 ############################################################
 
 # Supplementary Figure S4 species relative-abundance dot plot

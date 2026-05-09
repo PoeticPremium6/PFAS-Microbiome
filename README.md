@@ -55,4 +55,3 @@ Before running the MATLAB script, edit the configuration block at the top of `07
 
 ## Data availability note
 
-This repository intentionally does not contain raw FASTQ files, host-reference genomes, Kraken2 databases, APOLLO model files, or generated COBRA/mgPipe community models because these are large and/or externally maintained resources. The scripts document how those inputs were processed.

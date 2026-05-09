@@ -260,12 +260,3 @@ BiocManager::install(setdiff(bioc_packages, rownames(installed.packages())))
 ```
 
 ---
-
-## 7. Reproducibility notes
-
-- Raw sequencing data are not stored in this repository.
-- Large reference databases are not stored in this repository.
-- Generated outputs in `results/` are ignored by Git unless explicitly added.
-- Personal/local file paths should not be committed.
-- Paths should be set through `config/config.sh`, script headers, or repo-relative paths.
-- For final manuscript reproducibility, include `docs/sessionInfo_R.txt` generated from the machine used to make final figures.

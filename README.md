@@ -1,8 +1,6 @@
 # Microbiome metabolic modelling reveals candidate functional signatures of PFAS elimination in a high-exposure human cohort
 
-<p align="center">
-  <img src="docs/figures/PFAS_Graphical_Abstract.png" alt="Graphical abstract" width="900">
-</p>
+![Graphical abstract](docs/figures/PFAS_Graphical_Abstract.png)
 
 This repository contains the scripts used to document the preprocessing, microbiome metabolic-model reconstruction, and manuscript figure-generation workflow for the PFAS gut microbiome manuscript. It is intended for peer reviewers and readers who want to follow the analytical steps and reproduce the reported figures from processed inputs. It is not a full raw-data archive.
 

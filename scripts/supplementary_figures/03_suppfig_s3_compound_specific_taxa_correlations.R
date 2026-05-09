@@ -2,12 +2,6 @@
 # 03_suppfig_s3_compound_specific_taxa_correlations.R
 #
 # Supplementary compound-specific PFAS/taxa correlation figure; this script also contains the paired Figure 3 workflow.
-#
-# Paths have been converted to repo-relative locations:
-#   data/processed/
-#   data/metadata/
-#   data/model_outputs/
-#   results/supplementary_figures/
 ############################################################
 
 # Figure 3 + Supplementary Figure

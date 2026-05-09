@@ -2,12 +2,6 @@
 # 02_suppfig_s2_family_and_elimination_boxplots.R
 #
 # Supplementary Figure S2: family-level abundance comparisons and PFAS elimination-rate boxplot.
-#
-# Paths have been converted to repo-relative locations:
-#   data/processed/
-#   data/metadata/
-#   data/model_outputs/
-#   results/supplementary_figures/
 ############################################################
 
 library(ggplot2)

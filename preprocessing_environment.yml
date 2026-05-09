@@ -1,0 +1,18 @@
+name: pfas_microbiome_preprocessing
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - fastqc
+  - multiqc
+  - cutadapt
+  - trim-galore
+  - bowtie2
+  - samtools
+  - megahit
+  - metabat2
+  - checkm-genome
+  - kraken2
+  - bracken
+  - seqkit

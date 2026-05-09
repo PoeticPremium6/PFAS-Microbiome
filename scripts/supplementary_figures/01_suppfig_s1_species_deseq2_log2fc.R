@@ -3,11 +3,6 @@
 #
 # Supplementary Figure S1: species-level DESeq2 log2 fold-change plots.
 #
-# Paths have been converted to repo-relative locations:
-#   data/processed/
-#   data/metadata/
-#   data/model_outputs/
-#   results/supplementary_figures/
 ############################################################
 
 # Supplementary Figure S1

@@ -1,12 +1,3 @@
-# =====================================================================
-# Main text figure-generation code for PFAS microbiome manuscript
-#
-# This public version uses repository-relative paths only.
-# Expected input files should be placed under data/processed,
-# data/metadata, and data/model_outputs as described in docs/figure_workflow.md.
-# Outputs are written to results/figures.
-# =====================================================================
-
 # Figure 2
 # A. Alpha diversity indices
 # B. Bray-Curtis PCoA with average PFAS elimination rate

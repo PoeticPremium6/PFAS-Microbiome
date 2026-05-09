@@ -2,12 +2,6 @@
 # 05_suppfig_s5_s6_rf_qc_stability.R
 #
 # Supplementary RF QC/stability figures; this script includes Figure 6 dependencies.
-#
-# Paths have been converted to repo-relative locations:
-#   data/processed/
-#   data/metadata/
-#   data/model_outputs/
-#   results/supplementary_figures/
 ############################################################
 
 # FIGURE 6 MASTER SCRIPT — COMPLETE UPDATED VERSION

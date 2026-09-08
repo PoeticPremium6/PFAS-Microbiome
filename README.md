@@ -11,11 +11,11 @@ Public reproducibility companion for the Ronneby PFAS gut-microbiome manuscript.
 
 ## What is here
 
-This repository contains only the canonical public analysis lineage and publication-facing outputs:
+This repository contains the public analysis lineage and publication outputs:
 
-- core scripts needed to reconstruct the release-safe taxonomic, functional, MAG and contextual analyses;
+- core scripts needed to reconstruct the taxonomic, functional, MAG and contextual analyses;
 - final builders for Figures 1–6 and Figures S01–S06;
-- release-safe machine-readable source/result tables;
+- machine-readable source/result tables;
 - one PNG snapshot of each final figure for visual comparison;
 - public accession information and compact environment documentation.
 

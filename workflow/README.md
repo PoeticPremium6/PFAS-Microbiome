@@ -1,6 +1,6 @@
-# Canonical public workflow
+# Public workflow
 
-This is the shortest retained public analysis lineage. It is not a development history.
+This is the retained public analysis lineage.
 
 `00_revision_plot_style.R` is the shared plotting helper. The remaining scripts are grouped below in execution/conceptual order.
 

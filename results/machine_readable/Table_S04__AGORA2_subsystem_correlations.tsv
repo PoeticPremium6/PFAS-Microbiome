@@ -1,0 +1,16 @@
+Table Section	Effect Or Score Column	N P Lt 0 05	N Q Lt 0 05	Max Abs Effect Or Score	Feature	Spearman rho	N	Exposed prevalence	Exposed Mean	Absrho	Feature Label
+functional_mechanism_source_summary	rho	0	0	0.273704902867715							
+functional_mechanism_top_ranked_rows					Heparan sulfate degradation	-0.273704902867715	47.0	1.0	0.0848161187883377	0.273704902867715	Heparan sulfate degradation
+functional_mechanism_top_ranked_rows					Unassigned	-0.24468085106383	47.0	1.0	0.158925716938748	0.24468085106383	Unassigned
+functional_mechanism_top_ranked_rows					Transport, extracellular	-0.222594819611471	47.0	1.0	3.99438125022849	0.222594819611471	Transport, extracellular
+functional_mechanism_top_ranked_rows					Lipopolysaccharide biosynthesis	0.206059204440333	47.0	1.0	1.37513272241238	0.206059204440333	Lipopolysaccharide biosynthesis
+functional_mechanism_top_ranked_rows					N-glycan metabolism	-0.200983625808645	47.0	0.212765957446809	0.000189331450462032	0.200983625808645	N-glycan metabolism
+functional_mechanism_top_ranked_rows					Glyoxylate and dicarboxylate metabolism	-0.199583718778908	47.0	1.0	0.243795818526721	0.199583718778908	"Glyoxylate and dicarboxylate
+metabolism"
+functional_mechanism_top_ranked_rows					Butanoate metabolism	-0.197733580018501	47.0	1.0	0.182200532811802	0.197733580018501	Butanoate metabolism
+functional_mechanism_top_ranked_rows					Biosynthesis of siderophore group nonribosomal peptides	-0.196692876965772	47.0	1.0	0.0122322181003738	0.196692876965772	"Biosynthesis of siderophore group
+nonribosomal peptides"
+functional_mechanism_top_ranked_rows					Hyaluronan metabolism	-0.195212213633382	47.0	0.936170212765957	0.0072242015770473	0.195212213633382	Hyaluronan metabolism
+functional_mechanism_top_ranked_rows					Chondroitin sulfate degradation	-0.194749625449417	47.0	0.936170212765957	0.016858274611645	0.194749625449417	Chondroitin sulfate degradation
+functional_mechanism_top_ranked_rows					Beta-alanine metabolism	0.194611470860315	47.0	1.0	0.159888132703927	0.194611470860315	Beta-alanine metabolism
+functional_mechanism_top_ranked_rows					Zeatin biosynthesis	0.194033302497687	47.0	1.0	0.0400642020025378	0.194033302497687	Zeatin biosynthesis

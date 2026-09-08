@@ -1,0 +1,8 @@
+Feature Family	Status	Samples (n)	Features (n)	N Permutations	Observed Nominal P Lt 0.05	Null Mean	Null Sd	Null Q95	Empirical P For Observed Count	Transform	Label Permuted	Interpretation
+agora2_exchange	DONE	65.0	776.0	200	40	31.565	56.5900871604217	78.4999999999998	0.223880597014925	prevalence_10pct_CLR	ExposureGroup	descriptive_null_diagnostic_not_proof_of_power
+agora2_reaction	DONE	65.0	6814.0	200	1054	346.04	339.091645607206	1089.1	0.0646766169154229	prevalence_10pct_CLR	ExposureGroup	descriptive_null_diagnostic_not_proof_of_power
+agora2_subsystem	DONE	65.0	129.0	200	0	6.525	13.7508108486363	39.3499999999999	1	prevalence_10pct_CLR	ExposureGroup	descriptive_null_diagnostic_not_proof_of_power
+humann_pathways	DONE	65.0	8910.0	200	984	527.325	192.920478253731	871.1	0.0298507462686567	prevalence_10pct_CLR	ExposureGroup	descriptive_null_diagnostic_not_proof_of_power
+mag_abundance	DONE	65.0	1778.0	200	122	95.855	46.5203686409777	191.05	0.233830845771144	prevalence_10pct_CLR	ExposureGroup	descriptive_null_diagnostic_not_proof_of_power
+taxonomy_genus	DONE	65.0	449.0	200	39	26.84	10.2934042403022	44.05	0.129353233830846	prevalence_10pct_CLR	ExposureGroup	descriptive_null_diagnostic_not_proof_of_power
+taxonomy_species	DONE	65.0	634.0	200	42	37.19	13.211609787071	61.1	0.298507462686567	prevalence_10pct_CLR	ExposureGroup	descriptive_null_diagnostic_not_proof_of_power

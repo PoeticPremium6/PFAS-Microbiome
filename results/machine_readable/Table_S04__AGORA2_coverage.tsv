@@ -1,0 +1,4 @@
+Cohort	Samples	Mean Mapped Abundance Fraction	Min Mapped Abundance Fraction	Max Mapped Abundance Fraction	Samples Mapped Fraction Lt 0.25	Samples Mapped Fraction Lt 0.50	Samples Mapped Fraction Ge 0.50	Mean Detected Species	Mean Matched Detected Species	Matched AGORA2 Species Models	Unmatched Species Features	Reaction Features	Subsystem Features	Exchange Features	Model Load Log Rows	Reaction Matrix Columns	Subsystem Matrix Columns	Exchange Matrix Columns
+Ronneby	65	0.5318199163359077	0.138692614101	0.858949887399	3.0	24.0	41.0	274.84615384615387	65.29230769230769	215	1509	7377	137	795	215	66	66	66
+Nielsen	396	0.8823793453651037	0.461510530755	0.999206300079	0.0	1.0	395.0	95.36616161616162	71.02020202020202	360	254	7669	139	804	360	397	397	397
+HMP	748	0.9068016556943569	0.1038884	1.0	4.0	9.0	739.0	80.9090909090909	56.93983957219251	431	318	7843	141	811	431	749	749	749

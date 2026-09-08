@@ -1,0 +1,83 @@
+Cohort	Feature Family	Feature	N	Mean	Median	Min	Max	Prevalence Fraction Gt0	Status	Interpretation
+Ronneby	agora2_exchange	EX_Cit_Mg(e)	65.0	0.003928405398887016	0.00205317039588	0.0	0.0446518438823	0.9692307692307692	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_turan_D(e)	65.0	0.008811667079117846	0.00410723205142	0.0	0.128357290084	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_4hpro_LT(e)	65.0	0.01975724622241461	0.0181155688514	5.27794595097e-05	0.0627212093092	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_btd_RR(e)	65.0	0.002130550016773394	0.0	0.0	0.135214383794	0.1076923076923077	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_3dhcdchol(e)	65.0	0.005647836022994984	0.0040449510869	0.0	0.0417055580293	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_3dhchol(e)	65.0	0.005647836022994984	0.0040449510869	0.0	0.0417055580293	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_M03134(e)	65.0	0.006332287185986698	0.00392442908763	0.0	0.0622021136772	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_butam(e)	65.0	0.00629368441999716	0.00365609088151	0.0	0.0622021136772	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_norval_L(e)	65.0	0.00629368441999716	0.00365609088151	0.0	0.0622021136772	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_peamn(e)	65.0	0.00629368441999716	0.00365609088151	0.0	0.0622021136772	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_ocdcea(e)	65.0	0.07288537141605181	0.0654987362131	0.0	0.268792769266	0.8923076923076924	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_but(e)	65.0	0.16535712515056616	0.157485011766	0.026024378059	0.349822313288	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_exchange	EX_ppoh(e)	65.0	0.0036602954590645234	0.00299812158669	0.0	0.0186066013726	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	HYPSUCORNS	65.0	0.15407651281409396	0.12755260874	2.3050621092e-06	0.507671194433	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	SUCCITRDSs	65.0	0.15407651281409396	0.12755260874	2.3050621092e-06	0.507671194433	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	PDX5PS	65.0	0.14973557734525708	0.121311558701	2.3050621092e-06	0.505246684668	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	ALKP_R788	65.0	0.18741848319482152	0.16528487348	0.0	0.509306118906	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	R788t2pp	65.0	0.1873627199802	0.16528487348	0.0	0.509306118906	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	DAPabcpp	65.0	0.15487574257572861	0.145530388572	0.0	0.503848809616	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	GLYCtex	65.0	0.20264618999512896	0.188148936296	0.000210848555082	0.541467696303	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	GLYCtpp	65.0	0.20264618999512896	0.188148936296	0.000210848555082	0.541467696303	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	DADNK	65.0	0.1597136440453793	0.142079552144	0.0	0.484356815726	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	r0456	65.0	0.1597136440453793	0.142079552144	0.0	0.484356815726	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	ADXFTSNT	65.0	0.1326258941994085	0.119388692467	0.0	0.471473056732	0.9692307692307692	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	DH6NAOT4	65.0	0.1326258941994085	0.119388692467	0.0	0.471473056732	0.9692307692307692	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	DH6NPHS	65.0	0.1326258941994085	0.119388692467	0.0	0.471473056732	0.9692307692307692	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	DXFTOR	65.0	0.1326258941994085	0.119388692467	0.0	0.471473056732	0.9692307692307692	DONE	Ronneby_association_cohort
+Ronneby	agora2_reaction	GLYC3Ptpp	65.0	0.1199552433759825	0.0986270000052	0.0	0.505232460007	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Fluorobenzoate degradation	65.0	0.010430627209189558	0.0	0.0	0.67607191897	0.13846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Tropane, piperidine and pyridine alkaloid biosynthesis	65.0	0.11619038149469045	0.0792574952028	0.0	0.479016788036	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Oxalate metabolism	65.0	0.07758759007167419	0.0537609530489	2.32131207427e-05	0.363307261282	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Polycyclic aromatic hydrocarbon degradation	65.0	0.0044307044977756616	0.0	0.0	0.270428767588	0.1076923076923077	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Nitrogen metabolism	65.0	0.17061876088348926	0.131896630707	0.0211766059956	1.05016917638	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Fatty acid biosynthesis	65.0	0.008231020771669791	0.00105547845644	3.08594904333e-05	0.406956432679	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Chondroitin sulfate degradation	65.0	0.1550384798005934	0.088928273343	0.0	1.59343766914	0.9384615384615385	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Hyaluronan metabolism	65.0	0.06644093561446245	0.038112117147	0.0	0.682901858201	0.9384615384615385	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Phenylpropanoid biosynthesis	65.0	0.012403867232037376	0.00216026961598	4.11459872444e-05	0.543119687091	1.0	DONE	Ronneby_association_cohort
+Ronneby	agora2_subsystem	Oxidative phosphorylation	65.0	0.44943831746719853	0.3990121111	0.0809363096229	1.26362198265	1.0	DONE	Ronneby_association_cohort
+Ronneby	humann_pathways	UNINTEGRATED|g__Eubacterium.s__Eubacterium_sp_CAG_161	65.0	1637.1008169126155	0.0	0.0	42777.8621446	0.12307692307692308	DONE	Ronneby_association_cohort
+Ronneby	humann_pathways	UNINTEGRATED|g__Dorea.s__Dorea_longicatena	65.0	192950.6638419862	153851.893765	0.0	1583639.28133	0.9384615384615385	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__Alistipes	65.0	16.29986143076923	14.560821	0.0	46.108727	0.9846153846153847	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__Oxalobacter	65.0	0.022042492307692306	0.0	0.0	0.313543	0.36923076923076925	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__GGB3612	65.0	0.034571153846153856	0.0	0.0	1.076297	0.27692307692307694	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__GGB9198	65.0	0.02621936923076923	0.0	0.0	0.653676	0.13846153846153847	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__GGB9778	65.0	0.0015423846153846156	0.0	0.0	0.044012	0.1076923076923077	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__GGB9537	65.0	0.003296384615384615	0.0	0.0	0.0536	0.3384615384615385	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__Victivallis	65.0	0.0323412923076923	0.0	0.0	0.440923	0.3076923076923077	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__GGB3345	65.0	0.12001280000000003	0.0	0.0	2.79592	0.4	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__GGB9759	65.0	0.009989230769230768	0.0	0.0	0.119158	0.4	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__GGB3321	65.0	0.022241276923076925	0.0	0.0	0.75542	0.3230769230769231	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__Veillonella	65.0	0.03325753846153846	0.00105	0.0	0.422987	0.5384615384615384	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_genus	g__Merdimmobilis	65.0	0.0013394615384615385	0.0	0.0	0.03373	0.3384615384615385	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_species	s__Coprococcus_phoceensis	65.0	0.019451430769230768	0.0	0.0	0.678399	0.1076923076923077	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_species	s__Alistipes_communis	65.0	0.8759412	0.441087	0.0	6.896011	0.676923076923077	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_species	s__GGB4745_SGB6570	65.0	0.009129707692307693	0.0	0.0	0.260194	0.1076923076923077	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_species	s__GGB9719_SGB15273	65.0	0.006387	0.0	0.0	0.12784	0.36923076923076925	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_species	s__GGB9198_SGB14137	65.0	0.02621936923076923	0.0	0.0	0.653676	0.13846153846153847	DONE	Ronneby_association_cohort
+Ronneby	taxonomy_species	s__Lachnoclostridium_sp_An138	65.0	0.0015566	0.0	0.0	0.078182	0.12307692307692308	DONE	Ronneby_association_cohort
+Nielsen	agora2_subsystem	Fluorobenzoate degradation	396.0	0.007520630289493637	0.0	0.0	1.92448437734549	0.10606060606060606	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_subsystem	Tropane, piperidine and pyridine alkaloid biosynthesis	396.0	0.1369888674095749	0.10506170000000001	0.0	0.759162648168	0.9974747474747475	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_subsystem	Oxalate metabolism	396.0	0.08710035105998727	0.07173528917114	0.0006343	0.46869390626148	1.0	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_subsystem	Polycyclic aromatic hydrocarbon degradation	396.0	0.003717132808355303	0.0	0.0	0.76955303086602	0.10353535353535354	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_subsystem	Nitrogen metabolism	396.0	0.20573828493941732	0.17720771464213	0.00970109611956	3.25962017788557	1.0	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_subsystem	Fatty acid biosynthesis	396.0	0.023839206063720305	0.01053120105144	0.0	1.25055637516701	0.9949494949494949	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_subsystem	Chondroitin sulfate degradation	396.0	0.1945547332087169	0.1114263557323	0.0	1.91382570862	0.9267676767676768	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_subsystem	Hyaluronan metabolism	396.0	0.08338059994659293	0.0477541524567	0.0	0.82021101798	0.9267676767676768	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_subsystem	Phenylpropanoid biosynthesis	396.0	0.03029557373046163	0.014458200737880001	0.0	1.50456485136952	0.9848484848484849	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_subsystem	Oxidative phosphorylation	396.0	0.9912218640686893	0.93299835337128	0.35007383500735	1.75413265082558	1.0	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_Cit_Mg(e)	396.0	0.012018832798214437	0.00785854921442	0.0	0.10181093054332	0.9873737373737373	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_turan_D(e)	396.0	0.004285263436531442	0.00091260018117	0.0	0.05833888833226	0.7954545454545454	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_4hpro_LT(e)	396.0	0.08888111686578765	0.07044408932471499	0.0026814994637	0.4623363537665	1.0	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_btd_RR(e)	396.0	0.0018325853470019698	0.0	0.0	0.38477651543301	0.07828282828282829	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_3dhcdchol(e)	396.0	0.044607095026040315	0.02031559899017	0.0	0.4166906166623	0.9772727272727273	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_3dhchol(e)	396.0	0.044607095026040315	0.02031559899017	0.0	0.4166906166623	0.9772727272727273	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_M03134(e)	396.0	0.03186570251188372	0.00272989999831	0.0	0.4629448	0.803030303030303	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_butam(e)	396.0	0.003975669003660963	0.0007707995333705001	0.0	0.0582231883554	0.7474747474747475	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_norval_L(e)	396.0	0.003975669003660963	0.0007707995333705001	0.0	0.0582231883554	0.7474747474747475	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_peamn(e)	396.0	0.003975669003660963	0.0007707995333705001	0.0	0.0582231883554	0.7474747474747475	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_ocdcea(e)	396.0	0.03353116096484053	0.025107153754175	0.0	0.2243044448614	0.9191919191919192	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_but(e)	396.0	0.2897417974548653	0.276384305382255	0.02519180251918	0.80000155999984	1.0	DONE	public_context_not_PFAS_inference
+Nielsen	agora2_exchange	EX_ppoh(e)	396.0	0.011084357549467936	0.006188200313455	0.0	0.17619336476152	0.9545454545454546	DONE	public_context_not_PFAS_inference
+Nielsen	humann_pathways	UNINTEGRATED|g__Dorea.s__Dorea_longicatena	396.0	0.0031579771161616183	0.00287105	0.0	0.013637	0.7828282828282829	DONE	public_context_not_PFAS_inference

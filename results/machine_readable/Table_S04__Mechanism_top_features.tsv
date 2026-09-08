@@ -1,0 +1,10 @@
+Table Section	Effect Or Score Column	N P Lt 0 05	N Q Lt 0 05	Max Abs Effect Or Score	Feature	Feature Family	Candidate score	Mechanism Bin	Short Feature
+functional_mechanism_source_summary	candidate_score	0	0	0.00768579145380068					
+functional_mechanism_top_ranked_rows					Oxalate metabolism	AGORA2 subsystems	0.00768579145380068	Cell-surface/glycan context	Oxalate metabolism
+functional_mechanism_top_ranked_rows					PWY-5005: biotin biosynthesis II	HUMAnN pathways	0.00414800405522789	Other functional context	PWY-5005: biotin biosynthesis II
+functional_mechanism_top_ranked_rows					FEDCabcpp	AGORA2 reactions	0.00295551657252023	Transport/exchange context	FEDCabcpp
+functional_mechanism_top_ranked_rows					FEDCabcpp	AGORA2 reactions	0.00195486722287221	Transport/exchange context	FEDCabcpp
+functional_mechanism_top_ranked_rows					EX 3dhchol(e)	AGORA2 exchanges	0.00128528013944803	Transport/exchange context	EX 3dhchol(e)
+functional_mechanism_top_ranked_rows					Oxalate metabolism	AGORA2 subsystems	0.000683245225618593	Cell-surface/glycan context	Oxalate metabolism
+functional_mechanism_top_ranked_rows					Bacteroides.s Bacteroides vulgatus	HUMAnN pathways	0.000477067302557799	Other functional context	Bacteroides.s Bacteroides vulgatus
+functional_mechanism_top_ranked_rows					Oxalate metabolism	AGORA2 subsystems	0.000420423250924547	Cell-surface/glycan context	Oxalate metabolism

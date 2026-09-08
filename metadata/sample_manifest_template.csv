@@ -1,3 +1,0 @@
-sample_id,read1,read2,condition,notes
-A01,/path/to/A01_R1.fastq.gz,/path/to/A01_R2.fastq.gz,PFAS_exposed,example
-B01,/path/to/B01_R1.fastq.gz,/path/to/B01_R2.fastq.gz,reference,example

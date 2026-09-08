@@ -1,0 +1,26 @@
+Table Section	Effect Or Score Column	N P Lt 0 05	N Q Lt 0 05	Max Abs Effect Or Score	Feature Family	Mechanism Bin	Mean Rho	Direction Label
+functional_mechanism_source_summary	mean_rho	0	0	11.5676647895449				
+functional_mechanism_top_ranked_rows					AGORA2 reactions	Redox/energy		
+functional_mechanism_top_ranked_rows					AGORA2 reactions	Transport/exchange	-11.5676647895449	↓
+functional_mechanism_top_ranked_rows					HUMAnN pathways	Carbohydrate/central carbon	-10.2874303027013	↓
+functional_mechanism_top_ranked_rows					AGORA2 reactions	Unclassified functional context	-7.3593329934819	↓
+functional_mechanism_top_ranked_rows					AGORA2 reactions	Nucleotide metabolism	-6.5583343563399	↓
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Stress/xenobiotic	6.4773607594826	↑
+functional_mechanism_top_ranked_rows					HUMAnN pathways	Cofactor/vitamin	6.08597353099699	↑
+functional_mechanism_top_ranked_rows					AGORA2 exchanges	Transport/exchange	-5.39517446861298	↓
+functional_mechanism_top_ranked_rows					HUMAnN pathways	Broad biosynthesis/housekeeping	4.6864033248602	↑
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Broad biosynthesis/housekeeping	-4.52393516310069	↓
+functional_mechanism_top_ranked_rows					HUMAnN pathways	Unclassified functional context	-4.46995576157096	↓
+functional_mechanism_top_ranked_rows					HUMAnN pathways	SCFA/fermentation	-3.27182592383483	↓
+functional_mechanism_top_ranked_rows					HUMAnN pathways	Protein/translation	2.55009209115917	↑
+functional_mechanism_top_ranked_rows					HUMAnN pathways	Amino acid/N/S	-2.18548413704343	↓
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Amino acid/N/S	-2.13490264735954	↓
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Cofactor/vitamin	2.02245703821797	↑
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Ion/metal homeostasis	1.81282190399308	↑
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Bile/lipid/steroid	1.58708728249593	↑
+functional_mechanism_top_ranked_rows					HUMAnN pathways	Ion/metal homeostasis	-0.875315307789133	↓
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Unclassified functional context	0.838846026397547	↑
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Cell surface/glycan	0.678728129732021	↑
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Redox/energy	-0.643466283183214	↓
+functional_mechanism_top_ranked_rows					AGORA2 subsystems	Carbohydrate/central carbon	0.347233875252226	↑
+functional_mechanism_top_ranked_rows					HUMAnN pathways	Nucleotide metabolism	-0.240336700007542	↓

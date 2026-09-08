@@ -1,0 +1,43 @@
+# local environments
+.venv/
+venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+
+# workflow/runtime products
+logs/
+tmp/
+temp/
+cache/
+*.log
+*.out
+*.err
+*.zip
+*.tar
+*.tar.gz
+
+# large biological data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+*.fna
+*.fna.gz
+*.bam
+*.cram
+*.sam
+
+# participant-level/local metadata
+PFAS_Metadata.csv
+*participant*
+*clinical*
+*phenotype_raw*

@@ -1,0 +1,4 @@
+resource	accession_or_DOI	status	note
+BioProject	PRJNA1522707	REGISTERED	Study-level NCBI sequence-deposition project
+MAG genome accessions		PENDING	Individual MAG genome accessions will be added when assigned
+GitHub repository	https://github.com/PoeticPremium6/PFAS-Microbiome	PUBLICATION_RELEASE	Code, figures and release-safe derived outputs

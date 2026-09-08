@@ -1,0 +1,9 @@
+Table Section	N P Lt 0 05	N Q Lt 0 05	Mechanism Bin	N Feature Families	Top Feature
+functional_mechanism_source_summary	0	0			
+functional_mechanism_top_ranked_rows			Other functional context	3	Polycyclic aromatic hydrocarbon degradation
+functional_mechanism_top_ranked_rows			Transport/exchange	4	EX btd RR(e)
+functional_mechanism_top_ranked_rows			Bile/lipid/steroid	4	PWY-5994: palmitate biosynthesis (type I fatty acid synthase)
+functional_mechanism_top_ranked_rows			Cell surface/glycan	3	GALASE OGLYCAN1e
+functional_mechanism_top_ranked_rows			Redox/energy	4	PWY-8188: L-alanine degradation VI (reductive Stickland reaction)
+functional_mechanism_top_ranked_rows			SCFA/fermentation	3	PWY-6641: superpathway of sulfolactate degradation
+functional_mechanism_top_ranked_rows			Cofactor/vitamin	2	PWY-5209: methyl-coenzyme M oxidation to CO2

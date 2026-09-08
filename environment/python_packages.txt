@@ -1,0 +1,11 @@
+# Release-builder Python package snapshot.
+# Local conda-build file URLs were removed because they are not portable.
+argcomplete
+nlopt==2.11.0
+numpy==2.4.6
+PyYAML
+setuptools==82.0.1
+toml
+tomlkit
+xmltodict
+yq

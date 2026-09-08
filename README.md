@@ -1,71 +1,49 @@
-# Microbiome metabolic modelling reveals candidate functional signatures of PFAS elimination in a high-exposure human cohort
+# PFAS–Microbiome: Ronneby systems analysis
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PoeticPremium6/PFAS-Microbiome/main/docs/figures/PFAS_Graphical_Abstract.png" alt="Graphical abstract" width="100%">
+  <img src="assets/graphical_abstract.png" alt="Graphical abstract of the Ronneby PFAS gut microbiome study" width="1200">
 </p>
 
-This repository contains the scripts used to document the preprocessing, microbiome metabolic-model reconstruction, and manuscript figure-generation workflow for the PFAS gut microbiome manuscript. It is intended for peer reviewers and readers who want to follow the analytical steps and reproduce the reported figures from processed inputs. It is not a full raw-data archive.
+Public reproducibility companion for the Ronneby PFAS gut-microbiome manuscript.
 
-## Workflow overview
+**Release:** v1.2.0  
+**NCBI BioProject:** [PRJNA1522707](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1522707)
 
-1. **Read QC**: inspect raw sequencing quality with FastQC/MultiQC.
-2. **Adapter/quality trimming**: trim low-quality bases and adapters.
-3. **Human read removal**: map reads to GRCh38 and retain unmapped reads.
-4. **Assembly and binning**: assemble metagenomes, bin contigs, and assess MAG quality.
-5. **Taxonomic profiling**: classify samples or high-quality MAGs with Kraken2/Bracken.
-6. **Phyloseq-ready tables**: convert Bracken outputs into OTU and taxonomy tables.
-7. **Community metabolic reconstruction**: map detected species to APOLLO genome-scale models, reconstruct sample-specific communities with mgPipe, and export reaction, metabolite, and subsystem summaries.
-8. **Model-output normalization**: prepare normalized model-derived reaction, metabolite, and subsystem abundance tables.
-9. **Main figure generation**: recreate the six main-text figures from processed microbiome, metadata, PFAS, and model-output tables.
-10. **Supplementary figure generation**: recreate supplementary figures and diagnostic analyses used to support the manuscript.
+## What is here
 
-## Repository layout
+This repository contains only the canonical public analysis lineage and publication-facing outputs:
+
+- core scripts needed to reconstruct the release-safe taxonomic, functional, MAG and contextual analyses;
+- final builders for Figures 1–6 and Figures S01–S06;
+- release-safe machine-readable source/result tables;
+- one PNG snapshot of each final figure for visual comparison;
+- public accession information and compact environment documentation.
+
+Development patches, failed attempts, repair/audit scripts, manuscript assembly utilities, scheduler wrappers, internal manifests and private filesystem paths are intentionally excluded.
+
+## Start here
 
 ```text
-config/                         Example configuration files
-metadata/                       Example sample manifest and metadata templates
-docs/                           Workflow notes for manuscript methods
-data/                           Placeholder for processed inputs; raw data are not stored here
-results/                        Placeholder for generated figures and tables
-
-scripts/preprocessing/          Sequencing preprocessing scripts
-scripts/modeling/               APOLLO/mgPipe reconstruction and model-output preparation
-scripts/figures/                Main-text figure scripts
-scripts/supplementary_figures/  Supplementary figure scripts
+data/ACCESSIONS.tsv              public deposition/accession status
+workflow/README.md               ordered canonical analysis path
+workflow/final_figures/          final Figure 1–6 builders
+results/machine_readable/        release-safe source/result tables
+results/figures/                 final PNG snapshots
+docs/REPRODUCIBILITY.md          reproducibility scope and limitations
 ```
 
+## Reproducibility scope
 
-## Community metabolic reconstruction
+Raw human-containing reads, participant-level PFAS/clinical data and MAG FASTA files are not distributed through GitHub. Therefore restricted/raw preprocessing is documented in the manuscript rather than packaged here. The public repository focuses on the release-safe analysis lineage, derived source tables and exact publication-facing figure builders.
 
-Community model reconstruction is run in MATLAB using APOLLO genome-scale gut microbial reconstructions and mgPipe:
+The manuscript Methods remain authoritative for study design, statistical definitions and software usage. Large external databases and model resources must be obtained from their original providers.
 
-```matlab
-run('scripts/modeling/07_community_reconstruction.m')
-```
+## Data availability
 
-Before running the MATLAB script, edit the configuration block at the top of `07_community_reconstruction.m` or provide equivalent local paths interactively.
-
-Normalized model-output tables can then be prepared with:
-
-```bash
-Rscript scripts/modeling/08_Models_NormCount.r
-```
-
-## Notes for reproducibility
-
-The scripts are intended to document the manuscript analysis workflow and reproduce figures from processed data tables. Some steps require external software, reference databases, or model resources that are not redistributed here, including:
-
-- FastQC/MultiQC
-- Read trimming software
-- Bowtie2 or equivalent host-read removal tools
-- Kraken2/Bracken databases
-- Assembly/binning and MAG-quality tools
-- MATLAB
-- COBRA Toolbox / mgPipe
-- APOLLO genome-scale gut microbial reconstruction resources
-
-Local paths should be set through the provided configuration files or edited at the top of each script. Personal file paths and machine-specific directories have been removed.
+Study sequence deposition is registered under NCBI BioProject **PRJNA1522707**. MAG assemblies and associated metadata are being deposited or linked under that BioProject; individual accessions can be added to `data/ACCESSIONS.tsv` when assigned.
 
 ## Citation
 
-If using this workflow or adapting the scripts, please cite the associated manuscript once available.
+See `CITATION.cff` and cite the associated manuscript when using this repository.
+
+Repository: https://github.com/PoeticPremium6/PFAS-Microbiome

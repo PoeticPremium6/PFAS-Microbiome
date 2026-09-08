@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "PFAS-Microbiome: Ronneby systems analysis"
+type: software
+version: "1.1.0"
+date-released: "2026-09-08"
+repository-code: "https://github.com/PoeticPremium6/PFAS-Microbiome"
+url: "https://github.com/PoeticPremium6/PFAS-Microbiome"
+authors:
+  - family-names: "Josephs-Spaulding"
+    given-names: "Jonathan"
+  - family-names: "Goyal"
+    given-names: "Manisha"
+  - family-names: "Xu"
+    given-names: "Yiyi"
+  - family-names: "Fletcher"
+    given-names: "Tony"
+  - family-names: "Bang"
+    given-names: "Corrinna"
+  - family-names: "Andersson"
+    given-names: "Axel"
+  - family-names: "Jakobsson"
+    given-names: "Kristina"
+  - family-names: "Vande Voorde"
+    given-names: "Johan"
+  - family-names: "Zimmermann"
+    given-names: "Johannes"
+  - family-names: "Engstrom"
+    given-names: "Karin"
+  - family-names: "Kaleta"
+    given-names: "Christoph"
+keywords:
+  - PFAS
+  - gut microbiome
+  - metagenomics
+  - toxicokinetics
+  - metabolic modelling

@@ -1,0 +1,40 @@
+Table Section	Effect Or Score Column	N P Lt 0 05	N Q Lt 0 05	Max Abs Effect Or Score	Feature	Spearman rho	N	Exposed prevalence	Exposed Mean	Absrho	Feature Label	Feature Plot
+functional_mechanism_source_summary	rho	0	0	0.473833169704334								
+functional_mechanism_top_ranked_rows					methyl-coenzyme M oxidation to CO2	-0.473833169704334	47.0	0.25531914893617	0.00128921442726834	0.473833169704334	"methyl-coenzyme M oxidation
+to CO2"	"HUMAnN pathway___methyl-coenzyme M oxidation
+to CO2"
+functional_mechanism_top_ranked_rows					methanogenesis from H2 and CO2	-0.467797078370521	47.0	0.25531914893617	0.00152943866071604	0.467797078370521	"methanogenesis from H2 and
+CO2"	"HUMAnN pathway___methanogenesis from H2 and
+CO2"
+functional_mechanism_top_ranked_rows					pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.458487511563367	47.0	1.0	0.0783811060867044	0.458487511563367	"pyrimidine
+deoxyribonucleotides de
+novo biosynthesis III"	"HUMAnN pathway___pyrimidine
+deoxyribonucleotides de
+novo biosynthesis III"
+functional_mechanism_top_ranked_rows					biotin biosynthesis II	0.44345513413506	47.0	0.978723404255319	0.0384657817815346	0.44345513413506	biotin biosynthesis II	HUMAnN pathway___biotin biosynthesis II
+functional_mechanism_top_ranked_rows					ethanolamine utilization	-0.437789084181314	47.0	1.0	0.266959895270056	0.437789084181314	ethanolamine utilization	HUMAnN pathway___ethanolamine utilization
+functional_mechanism_top_ranked_rows					pyruvate fermentation to isobutanol (engineered)	-0.429116558741906	47.0	1.0	0.668790501187434	0.429116558741906	"pyruvate fermentation to
+isobutanol (engineered)"	"HUMAnN pathway___pyruvate fermentation to
+isobutanol (engineered)"
+functional_mechanism_top_ranked_rows					pyrimidine deoxyribonucleotides de novo biosynthesis I	-0.425647548566143	47.0	1.0	0.0840694189411811	0.425647548566143	"pyrimidine
+deoxyribonucleotides de
+novo biosynthesis I"	"HUMAnN pathway___pyrimidine
+deoxyribonucleotides de
+novo biosynthesis I"
+functional_mechanism_top_ranked_rows					acetylene degradation (anaerobic)	-0.404717853839038	47.0	1.0	0.216754527080971	0.404717853839038	"acetylene degradation
+(anaerobic)"	"HUMAnN pathway___acetylene degradation
+(anaerobic)"
+functional_mechanism_top_ranked_rows					Heparan sulfate degradation	-0.276942645698427	47.0	1.0	0.0847632387414163	0.276942645698427	Heparan sulfate degradation	AGORA2 subsystem___Heparan sulfate degradation
+functional_mechanism_top_ranked_rows					Unassigned	-0.243987049028677	47.0	1.0	0.158825355645641	0.243987049028677	Unassigned	AGORA2 subsystem___Unassigned
+functional_mechanism_top_ranked_rows					Transport, extracellular	-0.222594819611471	47.0	1.0	3.99179800824043	0.222594819611471	Transport, extracellular	AGORA2 subsystem___Transport, extracellular
+functional_mechanism_top_ranked_rows					Lipopolysaccharide biosynthesis	0.206059204440333	47.0	1.0	1.37425404420981	0.206059204440333	"Lipopolysaccharide
+biosynthesis"	"AGORA2 subsystem___Lipopolysaccharide
+biosynthesis"
+functional_mechanism_top_ranked_rows					N-glycan metabolism	-0.200983625808645	47.0	0.212765957446809	0.000189211673922101	0.200983625808645	N-glycan metabolism	AGORA2 subsystem___N-glycan metabolism
+functional_mechanism_top_ranked_rows					Glyoxylate and dicarboxylate metabolism	-0.199583718778908	47.0	1.0	0.243641917071517	0.199583718778908	"Glyoxylate and
+dicarboxylate metabolism"	"AGORA2 subsystem___Glyoxylate and
+dicarboxylate metabolism"
+functional_mechanism_top_ranked_rows					Butanoate metabolism	-0.197733580018501	47.0	1.0	0.182085016498293	0.197733580018501	Butanoate metabolism	AGORA2 subsystem___Butanoate metabolism
+functional_mechanism_top_ranked_rows					Biosynthesis of siderophore group nonribosomal peptides	-0.196692876965772	47.0	1.0	0.0122246917342224	0.196692876965772	"Biosynthesis of siderophore
+group nonribosomal peptides"	"AGORA2 subsystem___Biosynthesis of siderophore
+group nonribosomal peptides"

@@ -1,6 +1,6 @@
 # License for approved research data and original documentation
 
-**License: Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+**License: Creative Commons Attribution 4.0 International (CC BY 4.0)**
 Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
 
 Subject to the scope and exclusions below, the authors/rightsholders make their original, publicly released research outputs in `results/machine_readable/` available under **CC BY 4.0**. Original project documentation and figure materials may also be reused under CC BY 4.0 **to the extent that the contributors hold the relevant rights and the items contain no third-party material requiring separate permission**.

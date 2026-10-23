@@ -47,3 +47,21 @@ Study sequence deposition is registered under NCBI BioProject **PRJNA1522707**. 
 See `CITATION.cff` and cite the associated manuscript when using this repository.
 
 Repository: https://github.com/PoeticPremium6/PFAS-Microbiome
+
+<!-- RELEASE_STANDARDS_v1.2 -->
+## Publication release and public data
+
+Release: v1.2.0 (pre-release metadata; no GitHub release published yet)
+
+Run `python3 scripts/release_qa.py` (Linux) or `py -3 scripts/release_qa.py` (Windows) before release. Automated checks do **not** certify privacy, scientific reproducibility, permissions, or rights to publish; see `docs/PUBLIC_RELEASE_CHECKLIST.md` and `docs/ZENODO_DATA_GUIDE.md`.
+
+Public analysis code and approved processed data should have separate archival records. Add the Zenodo dataset DOI and NCBI assembly accessions after assignment. Original human-associated raw sequencing reads and restricted participant-level data are not publicly released.
+
+<!-- PFAS_DUAL_LICENSE_v1.2.0 -->
+## Licensing and reuse
+
+- **Original analysis/figure-generation code:** GNU GPL v3.0 only (`GPL-3.0-only`); see [LICENSE](LICENSE).
+- **Original, public-release-approved processed research tables:** CC BY 4.0; see [DATA_LICENSE.md](DATA_LICENSE.md).
+- **Third-party resources and restricted human-participant material:** not relicensed by this repository. Refer to [licensing and attribution notes](docs/LICENSING_AND_ATTRIBUTION.md).
+
+Commercial reuse is permitted under the relevant licence. Please credit the creators, cite the associated manuscript and cite the archived software/data DOI once available. The public software and processed-data deposits have separate licences and DOIs.

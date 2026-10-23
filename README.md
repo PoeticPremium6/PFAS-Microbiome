@@ -47,6 +47,7 @@ Study sequence deposition is registered under NCBI BioProject **PRJNA1522707**. 
 See `CITATION.cff` and cite the associated manuscript when using this repository.
 
 Repository: https://github.com/PoeticPremium6/PFAS-Microbiome
+Zenodo: 10.5281/zenodo.23588499
 
 <!-- RELEASE_STANDARDS_v1.2 -->
 ## Publication release and public data

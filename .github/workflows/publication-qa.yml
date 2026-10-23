@@ -1,0 +1,24 @@
+name: Publication release preflight
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  static-preflight:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile release tooling
+        run: python -m compileall -q scripts/release_qa.py scripts/zenodo_inventory.py scripts/apply_release_metadata.py
+      - name: Check version alignment, forbidden file types and accidental secrets
+        run: python scripts/release_qa.py
